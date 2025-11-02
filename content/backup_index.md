@@ -9,7 +9,7 @@ a { color: #1e90ff; }
 </style>
 
 
-<a href="https://photos.google.com/"> <img src="/img/ragsy.jpg" style="width:50%; border-radius:8px;"> </a>
+<a href="https://photos.google.com/"> <img src="/favicon.png" style="width:50%; border-radius:8px;"> </a>
 
 ## Local Services
 
