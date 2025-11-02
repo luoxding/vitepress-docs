@@ -26,7 +26,8 @@ export default defineConfig({
         text: '示例',
         items: [
           { text: 'Markdown 示例', link: '/markdown-examples' },
-          { text: 'API 示例', link: '/api-examples' }
+          { text: 'API 示例', link: '/api-examples' },
+          { text: '本站构建指南', link: '/VitePress-Git' }
         ]
       }
     ],
