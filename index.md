@@ -12,7 +12,7 @@ hero:
       link: /markdown-examples
     - theme: alt
       text: 在 GitHub 查看
-      link: https://github.com/luoxding/wiki
+      link: https://github.com/luoxding/vitepress-docs
 features:
   - icon: ⚙️
     title: 系统配置
