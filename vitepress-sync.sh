@@ -14,6 +14,7 @@ EXCLUDES=(
   "--exclude=.git"
   "--exclude=yarn.lock"
   "--exclude=package-lock.json"
+  "--exclude=package.json"
   "--exclude=.DS_Store"
   "--exclude=Thumbs.db"
 )
@@ -56,8 +57,8 @@ gitpush() {
 
 deploy() {
   push
-  build
   gitpush
+  build
   echo "🚀 部署完成！"
 }
 
