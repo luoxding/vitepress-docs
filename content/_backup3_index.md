@@ -2,7 +2,7 @@
 title = "LAN Welcome"
 +++
 
-<img src="/dog.jpg" alt="Dog on rock" style="max-width: 300px; border-radius: 8px; display: block; margin: 2rem auto;" />
+<img src="/favicon.png" alt="Dog on rock" style="max-width: 300px; border-radius: 8px; display: block; margin: 2rem auto;" />
 
 ## Local Services
 

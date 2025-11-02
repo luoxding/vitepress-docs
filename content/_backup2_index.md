@@ -3,7 +3,7 @@ title: "Welcome to Your LAN"
 ---
 
 <a href="https://photos.google.com/">
-  <img src="/img/ragsy.jpg" style="width:40%; border-radius:8px;">
+  <img src="/favicon.png" style="width:40%; border-radius:8px;">
 </a>
 
 ## Local Services
