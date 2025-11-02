@@ -52,7 +52,8 @@ const nav = [
     text: '笔记分类',
     items: [
       { text: '示例', link: '/markdown-examples' },
-      { text: '构建指南', link: '/VitePress-Git' }
+      { text: '构建指南', link: '/VitePress-Git' },
+      { text: '内容发布', link: '/content/' }
     ]
   }
 ]
