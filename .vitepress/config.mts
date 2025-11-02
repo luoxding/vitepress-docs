@@ -53,7 +53,7 @@ const nav = [
     items: [
       { text: '示例', link: '/markdown-examples' },
       { text: '构建指南', link: '/VitePress-Git' },
-      { text: '内容发布', link: '/content/' }
+      { text: '内容发布', link: '/content/_index' }
     ]
   }
 ]
